@@ -1,3 +1,7 @@
+sun-java6 (6.33-1) unstable; urgency=low
+
+  * 6.32 is currently not present anywhere on oracle's site. Try it this way.
+
 sun-java6 (6.32-3) unstable; urgency=low
 
   * Add JCE Unlimited Strength Jurisdiction Policy Files
